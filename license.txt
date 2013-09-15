@@ -784,6 +784,7 @@ http://creativecommons.org/licenses/by-sa/3.0/
     graphics/sprites/monsters/maggot-giant.png (????, Neoriceisgood)                                          (GPLv2)
     graphics/sprites/monsters/maggot.png (Neoriceisgood)                                                      (GPLv2)
     graphics/sprites/monsters/moggun.png (Modanung, Pateame)                                                  (GPLv2)
+    graphics/sprites/monsters/moonshroom.png (Cassy, Yuuki)                                                   (GPLv2)
     graphics/sprites/monsters/mouboo.png (Yuuki)                                                              (GPLv2)
     graphics/sprites/monsters/mouboo-demonic.png (Cassy, Yuuki)                                               (GPLv2)
     graphics/sprites/monsters/mushroom-red.png (Yuuki)                                                        (GPLv2)
