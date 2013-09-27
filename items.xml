@@ -3754,23 +3754,23 @@
         <sprite>equipment/head/btcap.xml|#d94800</sprite>
     </item>
     <item id="905"
-        image="equipment/head/armor-head-afkcap.png|#BF0E08"
+        image="equipment/head/afkcap.png|#BF0E08"
         name="AFK Cap"
         description="(Away from Keyboard)"
         type="equip-head"
         defense="1"
         weight="20"
         max-per-slot="1">
-        <sprite>equipment/head/head-afkcap.xml</sprite>
+        <sprite>equipment/head/afkcap.xml</sprite>
     </item>
     <item id="906"
-        image="equipment/head/head-admincap.png|R:#BF0E08"
+        image="equipment/head/admincap.png|R:#BF0E08"
         name="Administrator Cap"
         description="Only for Admins."
         type="equip-head"
         defense="1"
         weight="20">
-        <sprite>equipment/head/head-admincap.xml|#BF0E08</sprite>
+        <sprite>equipment/head/admincap.xml|#BF0E08</sprite>
     </item>
 
     <item id="907"
