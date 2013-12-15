@@ -800,7 +800,7 @@ http://creativecommons.org/licenses/by-sa/3.0/
     graphics/sprites/monsters/snail.png (FotherJ)                                                             (GPLv2), (CC BY-SA 3.0)
     graphics/sprites/monsters/snake-cave.png (????, Neoriceisgood)                                            (GPLv2)
     graphics/sprites/monsters/snake.png (????, Neoriceisgood)                                                 (GPLv2)
-    graphics/sprites/monsters/snowflower.png (Salmondine)                                                     (GPLv2)
+    graphics/sprites/monsters/snowflower.png (Salmondine, MarkDunbar, Cassy)                                   (GPLv2)
     graphics/sprites/monsters/spider.png (FotherJ)                                                            (GPLv2), (CC BY-SA 3.0)
     graphics/sprites/monsters/spinning-scythe.png (Nmaligec, Skipy)                                           (GPLv2)
     graphics/sprites/monsters/spirit-demonic.png (????, Neoriceisgood, V0id)                                  (GPLv2)
